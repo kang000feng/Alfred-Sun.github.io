@@ -3,18 +3,15 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://alfred-sun.github.io
-shorthand_url: alfred-sun.github.io
-title: Vermillion Phoinix by Alfred Sun
-subtitle: Vermillion Phoinix
+url: http://kang000feng.github.io
+shorthand_url: kang000feng.github.io
+title: Allu.me for sale!
+subtitle: Allu.me for sale!
 author:
-  name: Alfred Sun
+  name: kang000feng.github.io
   nickname: dfbb
-  email: sym_dfbb@163.com
-  gmail: alfred.sunym@gmail.com
-  schoolmail: alfred_sun@hust.edu.cn
-  school: http://www.hust.edu.cn
-  site: http://alfred-sun.github.io
+  email: 
+  site: http://kang000feng.github.io
 simple_search: http://118.174.27.210/search # 61.19.1.110  # https://www.google.com/search
 description: Simple personal blog for GitHub Pages
 
@@ -29,7 +26,7 @@ date_format: "%a %e %b %Y, %l:%M %p"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: sym_dfbb@163.com
+email:  
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -127,17 +124,15 @@ gems:
 # ----------------------- #
 
 # Github repositories
-github_user: Alfred Sun
+github_user: kang000feng
 github_repo_count: 4
 github_show_profile_link: true
 github_skip_forks: true
-github_site: http://github.com/Alfred-Sun
+github_site: http://github.com/kang000feng
 
 # SNS
-weibo_site: http://weibo.com/symdfbb
-baidu_site: http://hi.baidu.com/symdfbb
-byhh_site: http://bbs.whnet.edu.cn
-qq_site: http://user.qzone.qq.com/914738897
+weibo_site: 
+
 
 # Twitter
 twitter_user:
@@ -166,8 +161,8 @@ disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
-baidu_statistics_tracking_id: a8e39b00a0e3f52df3e0deea5d0a691b
-cnzz_statistics_tracking_id: 1253608568
+baidu_statistics_tracking_id:  
+cnzz_statistics_tracking_id:  
 
 # Facebook Like
 facebook_like: true
