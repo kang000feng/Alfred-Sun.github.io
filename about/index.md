@@ -82,8 +82,8 @@ sidebar: false
 
 ## **我是谁**
 
-- [**Curricula Vitae**]({{ root_url }}/cv.html "还没来得及修改 (O_O)？")   
-- [**GitHub Resume**](http://resume.github.io/?alfred-sun)
+- [**Curricula Vitae**]({{ root_url }}/cv1.html "还没来得及修改 (O_O)？")   
+- [**GitHub Resume**](http://resume.github.io/?-sun)
 
 
 - - - - - - -
@@ -139,7 +139,7 @@ Here it is in expanded and explained form with some comments by me (marked with 
 ## **Email:**
 
 ```sh
-echo dk?5_#O37ZWjSd4kODmS | tr R?7jWkdDO4yZ0p#S3mB5f_ Efug@lac.iSnMIdmsoZr%e
+echo dk?5_#O37Z4kODmS | tr R?7jWkdDO4yZ0p#S3mB5f_ Efug@lac.iSnMIdmsoZr%e
 ```
 
 <!--**Octostrap3** started because I really wanted to use Bootstrap while posting
@@ -151,11 +151,11 @@ Bootstrap 2.x.-->
 ## **Code & Contributing**
 
 For blog issues, questions and pull requests check
-[the GitHub repository](https://github.com/Alfred-Sun/Alfred-Sun.github.io).
+[the GitHub repository](https://github.com/kang000feng/kang000feng.github.io).
 
 <small class="text-muted">
 The source of this blog is also available
-[here](https://github.com/Alfred-Sun/Alfred-Sun.github.io/tree/master).  All the
+[here](https://github.com/kang000feng/kang000feng.github.io/tree/master).  All the
 content on this blog is under a Creative Commons license
 [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/).
 </small>
