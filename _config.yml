@@ -37,7 +37,7 @@ root:
 permalink: /blog/:year/:month/:day/:title/
 source: .
 destination: ./_site
-plugins: ./_plugins
+plugins: plugins_dir
 code_dir: downloads/code/
 category_dir: blog/category/
 tag_dir: blog/tag/
